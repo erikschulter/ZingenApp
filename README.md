@@ -16,7 +16,7 @@ LandingPage responsiva para um App de Karaokê <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto ZingenApp" src="assets/github/ZingenApp.jpeg" width="100%">
+  <img alt="projeto ZingenApp" src="/github/ZingenApp.jpeg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
