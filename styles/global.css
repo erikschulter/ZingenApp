@@ -65,6 +65,8 @@ h1, h2, h3 {
   color: var(--text-color-primary);
   font-weight: var(--fw-bold);
   letter-spacing: -0.04em;
+
+  overflow-x: hidden;
 }
 
 h1 {
